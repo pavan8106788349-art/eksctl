@@ -13,6 +13,7 @@ managedNodeGroups:
   spot: true
   desiredCapacity: 2
   
+  
 
   
   
