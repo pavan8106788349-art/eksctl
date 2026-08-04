@@ -14,3 +14,4 @@ managedNodeGroups:
   #instanceTypes: ["m7i-flex.large","c7i-flex.large","t3.small"]
   spot: true
   desiredCapacity: 2
+  
