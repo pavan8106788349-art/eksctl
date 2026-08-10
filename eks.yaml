@@ -9,7 +9,7 @@ metadata:
 
 managedNodeGroups:
 - name: spot
-  instanceTypes: ["t3.large","t3.medium","t3.micro","t3.small"]
+  instanceTypes: ["t3.large"]
    #AWS Free tier
   #instanceTypes: ["m7i-flex.large","c7i-flex.large","t3.small"]
   spot: true
